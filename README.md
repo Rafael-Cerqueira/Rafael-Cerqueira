@@ -1,4 +1,6 @@
-Olá Sou o Rafael Cerqueira :D
+Olá, atualmente estou estudando para me tornar um Dev Fullstack.
+- Tenho domínio em Python, HTML5 e CSS3.
+- Conhecimento em Java, JS, SQL, React.
 
 
 
